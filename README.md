@@ -1,2 +1,2 @@
 # Trading
-Trading bot using IKBR and market data
+Trading bot using IBKR and market data
